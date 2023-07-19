@@ -383,3 +383,22 @@ class: text-center thanks
 # <unicorn>Thanks!</unicorn>
 
 [Documentation](https://vanilla-extract.style/) · [Website Example](https://github.com/vanilla-extract-css/vanilla-extract/tree/master/site/src)
+
+---
+layout: center
+---
+
+# <unicorn>Bonus 1 - Real World Example</unicorn>
+
+- [Sprinkles Definition Example](https://github.com/vanilla-extract-css/vanilla-extract/blob/master/site/src/system/styles/sprinkles.css.ts)
+- [Box component with sprinkels](https://github.com/vanilla-extract-css/vanilla-extract/blob/master/site/src/system/Box/Box.tsx)
+- [Box component usage](https://github.com/vanilla-extract-css/vanilla-extract/blob/master/site/src/Blockquote/Blockquote.tsx)
+- [ButtonLink component](https://github.com/vanilla-extract-css/vanilla-extract/blob/master/site/src/system/ButtonLink/ButtonLink.tsx)
+
+---
+layout: center
+---
+
+# <unicorn>Bonus 2 - Under the hood</unicorn>
+
+- [How the VE files are processed](https://github.com/vanilla-extract-css/vanilla-extract/blob/master/packages/integration/src/processVanillaFile.ts#L88)
